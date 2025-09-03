@@ -1,0 +1,7 @@
+body {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+}
+.scroll-target {
+    scroll-margin-top: 80px; /* Adjust this to match your fixed header height */
+}
